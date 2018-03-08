@@ -1,0 +1,13 @@
+{
+  "name": "buildRepository",
+  "version": "1.0.0",
+  "description": "Combined build repository for apps and desktop",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "yarn": "^1.5.1"
+  }
+}
